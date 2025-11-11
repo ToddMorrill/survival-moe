@@ -1,0 +1,14 @@
+--group sepsis
+--dataset Sepsis
+--cache_dataset True
+--num_hours 100
+--time_bins 100
+--single_record True
+--lr 0.0005
+--epochs 1000
+--embedding_dimension 4
+--group_ent_lambda 0.01
+--instance_ent_lambda 0.0
+--adjust_eval
+--administrative_censoring
+--save_model

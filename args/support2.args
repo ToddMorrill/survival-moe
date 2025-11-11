@@ -1,0 +1,12 @@
+--group support2
+--dataset SUPPORT2
+--lr 0.0005
+--epochs 1000
+--time_bins 100
+--dropout 0.0
+--embedding_dimension 4
+--group_ent_lambda 0.01
+--instance_ent_lambda 0.0
+--save_model
+--adjust_eval
+--ipcw

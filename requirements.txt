@@ -1,0 +1,21 @@
+-e .
+numpy
+matplotlib
+pyyaml
+pytest
+gpustat
+wandb==0.18.7
+pandas
+torch
+torchvision
+seaborn
+tqdm
+ucimlrepo
+scikit-learn==1.6.1
+torchsurv
+sentence-transformers
+simple_slurm
+scikit-survival
+SurvivalEVAL
+prefect[dask]
+statsmodels
