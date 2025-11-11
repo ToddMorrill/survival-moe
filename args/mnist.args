@@ -1,0 +1,11 @@
+--dataset MNIST
+--group mnist
+--mnist_means 1 5 9 13 17 21 25 29 33 37
+--mnist_stds 1 2 3 1 2 3 1 1 1 1
+--lr 0.0005
+--epochs 1000
+--time_bins 100
+--mnist_censoring_percentage 0.0
+--group_ent_lambda 0.01
+--instance_ent_lambda 0.0
+--save_model
